@@ -1,2 +1,4 @@
 # Dec-Deb
-deconfounded and debiased estimation for high-dimensional linear regression under hidden confounding
+Codes for ``Deconfounded and debiased estimation for high-dimensional linear regression under hidden confounding with application to omics data''
+
+The content of codes includes simulated data generation, metrics, functions for the proposed method, simulation code for method comparison, and simulation code with varying \rho.
